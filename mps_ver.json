@@ -2,8 +2,8 @@
     "version_code": 115,
     "version_name": "1.1.5",
     "url": "https://github.com/MPSCLN/MicroPass/releases/download/v1.1.5/MicroPass_1.1.5.zip",
-    "android_vcode": 9000054,
-    "android_nvcode": 54,
-    "android_vname": "1.2.5",
-    "android_url" : "https://github.com/MPSCLN/MicroPass_Android/releases/download/v1.2.5/MicroPass_v1.2.5.apk"
+    "android_vcode": 9000055,
+    "android_nvcode": 55,
+    "android_vname": "1.2.6",
+    "android_url" : "https://github.com/MPSCLN/MicroPass_Android/releases/download/v1.2.6/MicroPass_v1.2.6.apk"
 }
